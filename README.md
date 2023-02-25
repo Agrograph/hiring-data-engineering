@@ -4,7 +4,7 @@ Data Engineering Rust programming exercise
 
 ### Overview
 
-The goal of this exercise is to gain insight into how you, as an engineer, work to solve problems. These problems may consist of understanding the Rust language, what data structures to use, and what the most optimal solution is. The goal is not to 'complete' the exercise, as much as it is to demonstrate your though pattern.
+The goal of this exercise is to gain insight into how you, as an engineer, work to solve problems. These problems may consist of understanding the Rust language, what data structures to use, and what the most optimal solution is. The goal is not to 'complete' the exercise, as much as it is to demonstrate your thought pattern.
 
 ### Project Structure
 
